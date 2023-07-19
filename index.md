@@ -104,7 +104,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 text-align="center">
-<a href="https://wvuhpc.github.io//GPUs-in-Scientific-Applications">Lesson Webpage</a> 
+<a href="https://wvuhpc.github.io/GPUs-in-Scientific-Applications">Lesson Webpage</a> 
 </h2>
 
 <h2 id="general">General Information</h2>
